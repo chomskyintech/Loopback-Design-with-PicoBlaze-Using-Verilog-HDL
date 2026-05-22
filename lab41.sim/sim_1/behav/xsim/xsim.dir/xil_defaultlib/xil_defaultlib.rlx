@@ -1,0 +1,16 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/QADEER KHAN/Documents/lab41/lab41.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/QADEER KHAN/Downloads/l4_tools/Assembler/program.v,1764736251,verilog,,C:/Users/QADEER KHAN/Downloads/l4_tools/PicoBlaze6_A7_KCPSM6/l4_tools_Picoblaze6/KCPSM6/uart_rx6.v,,program,,,,,,,,
+C:/Users/QADEER KHAN/Downloads/l4_tools/PicoBlaze6_A7_KCPSM6/l4_tools_Picoblaze6/KCPSM6/kcpsm6.v,1701422817,verilog,,C:/Users/QADEER KHAN/Downloads/l4_tools/loopback.v,,kcpsm6,,,,,,,,
+C:/Users/QADEER KHAN/Downloads/l4_tools/PicoBlaze6_A7_KCPSM6/l4_tools_Picoblaze6/KCPSM6/uart_rx6.v,1701422816,verilog,,C:/Users/QADEER KHAN/Downloads/l4_tools/PicoBlaze6_A7_KCPSM6/l4_tools_Picoblaze6/KCPSM6/uart_tx6.v,,uart_rx6,,,,,,,,
+C:/Users/QADEER KHAN/Downloads/l4_tools/PicoBlaze6_A7_KCPSM6/l4_tools_Picoblaze6/KCPSM6/uart_tx6.v,1701422817,verilog,,C:/Users/QADEER KHAN/Downloads/l4_tools/testbench.v,,uart_tx6,,,,,,,,
+C:/Users/QADEER KHAN/Downloads/l4_tools/Verilog/bbfifo_16x8.v,1729777002,verilog,,C:/Users/QADEER KHAN/Downloads/l4_tools/PicoBlaze6_A7_KCPSM6/l4_tools_Picoblaze6/KCPSM6/kcpsm6.v,,bbfifo_16x8,,,,,,,,
+C:/Users/QADEER KHAN/Downloads/l4_tools/Verilog/kcuart_rx.v,1729777002,verilog,,C:/Users/QADEER KHAN/Downloads/l4_tools/Verilog/kcuart_tx.v,,kcuart_rx,,,,,,,,
+C:/Users/QADEER KHAN/Downloads/l4_tools/Verilog/kcuart_tx.v,1729777002,verilog,,C:/Users/QADEER KHAN/Downloads/l4_tools/loopback.v,,kcuart_tx,,,,,,,,
+C:/Users/QADEER KHAN/Downloads/l4_tools/Verilog/uart_rx.v,1729777002,verilog,,C:/Users/QADEER KHAN/Downloads/l4_tools/Verilog/uart_tx.v,,uart_rx,,,,,,,,
+C:/Users/QADEER KHAN/Downloads/l4_tools/Verilog/uart_tx.v,1729777003,verilog,,C:/Users/QADEER KHAN/Downloads/l4_tools/testbench.v,,uart_tx,,,,,,,,
+C:/Users/QADEER KHAN/Downloads/l4_tools/loopback.v,1764733467,verilog,,C:/Users/QADEER KHAN/Downloads/l4_tools/Assembler/program.v,,loopback,,,,,,,,
+C:/Users/QADEER KHAN/Downloads/l4_tools/testbench.v,1729779815,verilog,,,,loopback_testbench_v_tf,,,,,,,,

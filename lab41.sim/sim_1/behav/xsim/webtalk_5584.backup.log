@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Dec  3 03:58:04 2025
+# Process ID: 5584
+# Current directory: C:/Users/QADEER KHAN/Documents/lab41/lab41.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/QADEER KHAN/Documents/lab41/lab41.sim/sim_1/behav/xsim/xsim.dir/loopback_testbench_v_tf_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/QADEER KHAN/Documents/lab41/lab41.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/QADEER KHAN/Documents/lab41/lab41.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/QADEER -notrace
+invalid command name "[1F68:350C][2023-07-17T01:55:24]i001:"
+    while executing
+"[1F68:350C][2023-07-17T01:55:24]i001: Burn v3.10.4.4718, Windows v10.0 (Build 19042: Service Pack 0), path: C:\WINDOWS\Temp\{F8A53778-3BB6-4B8B-BDE9-E..."
+    (file "C:/Users/QADEER" line 1)
+INFO: [Common 17-206] Exiting Webtalk at Wed Dec  3 03:58:05 2025...

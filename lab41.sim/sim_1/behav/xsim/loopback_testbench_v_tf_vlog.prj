@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../Downloads/l4_tools/PicoBlaze6_A7_KCPSM6/l4_tools_Picoblaze6/KCPSM6/kcpsm6.v" \
+"../../../../../../Downloads/l4_tools/loopback.v" \
+"../../../../../../Downloads/l4_tools/Assembler/program.v" \
+"../../../../../../Downloads/l4_tools/PicoBlaze6_A7_KCPSM6/l4_tools_Picoblaze6/KCPSM6/uart_rx6.v" \
+"../../../../../../Downloads/l4_tools/PicoBlaze6_A7_KCPSM6/l4_tools_Picoblaze6/KCPSM6/uart_tx6.v" \
+"../../../../../../Downloads/l4_tools/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

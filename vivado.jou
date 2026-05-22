@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Dec  3 09:48:05 2025
+# Process ID: 19984
+# Current directory: C:/Users/QADEER KHAN/Documents/lab41
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13220 C:\Users\QADEER KHAN\Documents\lab41\lab41.xpr
+# Log file: C:/Users/QADEER KHAN/Documents/lab41/vivado.log
+# Journal file: C:/Users/QADEER KHAN/Documents/lab41\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/QADEER KHAN/Documents/lab41/lab41.xpr}
+update_compile_order -fileset sources_1
+add_files -norecurse {{C:/Users/QADEER KHAN/Downloads/l4_tools/Verilog/uart_tx.v} {C:/Users/QADEER KHAN/Downloads/l4_tools/Verilog/uart_rx.v}}
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config {C:/Users/QADEER KHAN/Documents/lab41/loopback_testbench_v_tf_behav.wcfg}
+source loopback_testbench_v_tf.tcl
+run 5 ms
+run all
+close_sim

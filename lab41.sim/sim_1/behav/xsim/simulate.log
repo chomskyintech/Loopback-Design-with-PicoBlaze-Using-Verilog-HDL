@@ -1,0 +1,9 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+If simulation ends prematurely, restart
+using 'run -all' on the command line.
+Reset is deasserted...
+PASS: LEDs equal switches.
+PASS: LEDs equal switches.
+Simulation is over, check the waveforms.
+$stop called at time : 40900 ns : File "C:/Users/QADEER KHAN/Downloads/l4_tools/testbench.v" Line 110

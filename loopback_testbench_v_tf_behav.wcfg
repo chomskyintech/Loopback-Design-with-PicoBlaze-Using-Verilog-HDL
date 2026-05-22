@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="loopback_testbench_v_tf_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="loopback_testbench_v_tf" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="839779006fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="152"></NameColumnWidth>
+      <ValueColumnWidth column_width="203"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/loopback_testbench_v_tf/rs232" type="logic">
+      <obj_property name="ElementShortName">rs232</obj_property>
+      <obj_property name="ObjectShortName">rs232</obj_property>
+   </wvobject>
+   <wvobject fp_name="/loopback_testbench_v_tf/leds" type="array">
+      <obj_property name="ElementShortName">leds[7:0]</obj_property>
+      <obj_property name="ObjectShortName">leds[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/loopback_testbench_v_tf/switches" type="array">
+      <obj_property name="ElementShortName">switches[7:0]</obj_property>
+      <obj_property name="ObjectShortName">switches[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/loopback_testbench_v_tf/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/loopback_testbench_v_tf/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/loopback_testbench_v_tf/my_loopback/baud_count" type="array">
+      <obj_property name="ElementShortName">baud_count[9:0]</obj_property>
+      <obj_property name="ObjectShortName">baud_count[9:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/loopback_testbench_v_tf/my_loopback/write_to_uart" type="logic">
+      <obj_property name="ElementShortName">write_to_uart</obj_property>
+      <obj_property name="ObjectShortName">write_to_uart</obj_property>
+   </wvobject>
+   <wvobject fp_name="/loopback_testbench_v_tf/my_loopback/write_to_leds" type="logic">
+      <obj_property name="ElementShortName">write_to_leds</obj_property>
+      <obj_property name="ObjectShortName">write_to_leds</obj_property>
+   </wvobject>
+   <wvobject fp_name="/loopback_testbench_v_tf/my_loopback/buffer_full" type="logic">
+      <obj_property name="ElementShortName">buffer_full</obj_property>
+      <obj_property name="ObjectShortName">buffer_full</obj_property>
+   </wvobject>
+</wave_config>
